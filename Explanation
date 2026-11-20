@@ -1,0 +1,12 @@
+A web Scarping project on Skincare product on nykaa market place is done. 
+The data is scarped using selenium with in friendly rate limits.
+from the gathered 1800 datarows only 1466 rows are select due there completeness .
+extra 4 more columns are added to the extisting ones making column total to 10 columns.
+after this i have enriched the dataset by adding indian or international brand distinction .
+after that we have done univarte, bivarte and multivarte analysis to spot any statistical relationship between columns.
+we used statistical techniques like ANNOVA and chi-square for statistical analysis .
+we have used one-way ANNOVA,ANNOVA and chi-square methods ,check ppt for reference.
+
+NOtE: The project strictly is for Educational purpose , Use it only for Educational purpose only.
+As for Scraper create it by your self as the nyakaa website is Dynamics its structure changes every fixed time duration .
+So my scraper code is useless .
